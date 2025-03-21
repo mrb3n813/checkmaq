@@ -52,6 +52,7 @@ You will need a value domain user/password, the domain name and the Distinguishe
 
 ```
 C:\Users\ben\Desktop>checkmaq.exe -h
+
 usage: checkmaq.exe [-h] -u USERNAME -p PASSWORD -d DOMAIN -dn DISTINGUISHED_NAME
 
 Check ms-DS-MachineAccountQuota for a domain.
