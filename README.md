@@ -10,7 +10,7 @@ Simple Python/executable tool to check the value of the ms-DS-MachineAccountQuot
 1. Install Nuitka and other dependencies
    
 ```
-$ pip install nuitka numpy zstandard
+C:\Users\ben\Desktop>python -m pip install numpy zstandard nuitka
 ```
 
 2. Compile to Executable
