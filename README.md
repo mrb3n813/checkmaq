@@ -48,7 +48,7 @@ Nuitka: Successfully created 'checkmaq.exe'.
 
 ## Usage
 
-You will need a value domain user/password, the domain name and the Distinguished Name (dn) of the domain, i.e. DC=ACME,DC=LOCAL
+You will need a valid domain user/password, the domain name and the Distinguished Name (dn) of the domain, i.e. DC=ACME,DC=LOCAL
 
 ```
 C:\Users\ben\Desktop>checkmaq.exe -h
