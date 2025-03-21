@@ -71,6 +71,16 @@ options:
 
 ---
 
+## Example 
+
+```
+C:\Users\ben\Desktop>checkmaq.exe -u bob.smith -p "Mystr0ng_Password!" -d acme.local -dn "DC=acme,DC=local"
+
+[+] ms-DS-MachineAccountQuota: 0
+```
+
+---
+
 ## Future Additions
 
 I may eventually add some additional functionality such as:
